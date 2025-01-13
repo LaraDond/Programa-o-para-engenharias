@@ -1,5 +1,6 @@
 # Programação para engenharias
-##Professora: Cristiane Pavei
-##Modalidade: presencial 
+Professora: Cristiane Pavei
+Modalidade: presencial 
+Linguagem: python
 
-Nesta disciplina adicionarei os programas feitos durente as aulas.
+Nesse repositório adicionarei os programas feitos durante as aulas📚💻.
